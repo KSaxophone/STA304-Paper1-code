@@ -18,7 +18,7 @@ For this report, I will use the polls data to compare residents voting towards t
 
 ## Data Source
 
-Toronto’s City Office has conducted over 1000 polls on behalf of City divisions, these polls are meant to establish the opinions of residents and businesses on various topics covered by a City by-law [@Toronto1]. The report is based on the data of poll results that published on the City of Toronto Open Data Portal, and the csv format of the data was loaded into my R Studio by the R package opendatatoronto [@02]. The results contain several variables related to polls such as application topics, ballots distribution and casts, pass rate and so on. The collection of data starts from April, 2015, and the dataset was last refreshed on Feb 4th, 2022.
+Toronto’s City Office has conducted over 1000 polls on behalf of City divisions, these polls are meant to establish the opinions of residents and businesses on various topics covered by a City by-law [@Toronto1]. The report is based on the data of poll results that published on the City of Toronto Open Data Portal, and the csv format of the data was loaded into my R Studio by the R package opendatatoronto [@02]. The results contain several variables related to polls such as application topics, ballots distribution and casts, pass rate and so on. The collection of data starts from April, 2015, and the dataset was last refreshed on Feb 4th, 2022.^[https://github.com/KSaxophone/STA304-Paper1-code]
 
 ```{r, include=FALSE}
 library(opendatatoronto)
