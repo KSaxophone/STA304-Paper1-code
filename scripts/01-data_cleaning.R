@@ -30,7 +30,7 @@ rm(raw_data)
          
 
 #### What's next? ####
-
-
+new_data <- raw_data %>%
+  filter(!is.na(raw_data))
 
          

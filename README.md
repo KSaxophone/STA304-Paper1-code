@@ -1,5 +1,3 @@
 # starter_folder
 
-This repo....
-
-It is organised as follows...
+Polls conducted by City Office establish residents’ opinions on various city topics and issues. This report will focus on the topic of traffic calming and analyze its poll results through polls dataset provided on Toronto Open Data Portal. The report has concluded that most residents tend to vote in favour of proposal for traffic calming, and the bias caused by missing ballots and potential voters are not common.
